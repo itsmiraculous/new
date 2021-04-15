@@ -6,6 +6,7 @@
 
 
 
+
 #dropdown-menu-2btn-19 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -42,11 +43,14 @@
 #header1-1e .btn {
   font-family: 'Montserrat', sans-serif;
 }
-#content4-1h .mbr-section__col .mbr-header__text {
+#testimonials1-1j .mbr-section__header {
+  font-family: 'Montserrat', sans-serif;
   text-align: left;
+}
+#testimonials1-1j .mbr-reviews__text P {
   font-family: 'Montserrat', sans-serif;
 }
-#content4-1h P {
+#testimonials1-1j .mbr-reviews__author-name {
   font-family: 'Montserrat', sans-serif;
 }
 
