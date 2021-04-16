@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 #dropdown-menu-2btn-19 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -46,16 +42,6 @@
 #header1-1e .btn {
   font-family: 'Montserrat', sans-serif;
 }
-#testimonials1-1j .mbr-section__header {
-  font-family: 'Montserrat', sans-serif;
-  text-align: left;
-}
-#testimonials1-1j .mbr-reviews__text P {
-  font-family: 'Montserrat', sans-serif;
-}
-#testimonials1-1j .mbr-reviews__author-name {
-  font-family: 'Montserrat', sans-serif;
-}
 #content1-1n P {
   font-family: 'Montserrat', sans-serif;
   text-align: left;
@@ -63,22 +49,10 @@
 }
 #content1-1n B {
   font-family: 'Montserrat', sans-serif;
-  font-size: 48px;
+  font-size: 100px;
 }
 #content1-1n DIV {
   color: #000000;
-}
-#msg-box4-1m .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-1m .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-1m .mbr-article {
-  color: #000000;
-}
-#msg-box4-1m .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
 }
 
 
