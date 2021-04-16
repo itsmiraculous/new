@@ -8,6 +8,8 @@
 
 
 
+
+
 #dropdown-menu-2btn-19 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -53,6 +55,18 @@
 }
 #testimonials1-1j .mbr-reviews__author-name {
   font-family: 'Montserrat', sans-serif;
+}
+#content1-1n P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 100px;
+}
+#content1-1n B {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+}
+#content1-1n DIV {
+  color: #000000;
 }
 #msg-box4-1m .mbr-header__text {
   color: #000000;
